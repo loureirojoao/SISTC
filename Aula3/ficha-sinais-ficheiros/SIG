@@ -1,0 +1,7 @@
+SIGSTOP - Processo em pausa, pode ser retomado
+SIGKILL - Processo morto
+
+SIGKILL e SIGSTOP não podem ser bloqueados, ignorados ou atendidos.
+
+SIGCONT não pode ser bloqueado ou ignorado mas pode ser atendido.
+

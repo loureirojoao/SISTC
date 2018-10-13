@@ -1,0 +1,5 @@
+ave.dee.isep.ipp.pt -> servidor
+
+ave...pt/~jes/sistc/pl/ws/vehicle.php
+						 /vehicles.php?o=JSON
+						 /vehicle-error.php
